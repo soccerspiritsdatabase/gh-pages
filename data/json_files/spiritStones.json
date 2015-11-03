@@ -1,0 +1,4561 @@
+{
+  "411001": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5011,
+      5191
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Aries",
+    "evolution": 412001,
+    "name": {
+      "kr": "폭발하는 잿불",
+      "en": "Exploding Ember",
+      "id": "sp_na_411001"
+    },
+    "id": 411001
+  },
+  "411002": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5081
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Taurus",
+    "evolution": 412002,
+    "name": {
+      "kr": "이글거리는 잿불",
+      "en": "Glaring Ember",
+      "id": "sp_na_411002"
+    },
+    "id": 411002
+  },
+  "411005": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5151
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Leo",
+    "evolution": 412005,
+    "name": {
+      "kr": "거머쥐는 잿불",
+      "en": "Burning Ember",
+      "id": "sp_na_411005"
+    },
+    "id": 411005
+  },
+  "411006": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5021
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Virgo",
+    "evolution": 412006,
+    "name": {
+      "kr": "무결점의 잿불",
+      "en": "Perfect Ember",
+      "id": "sp_na_411006"
+    },
+    "id": 411006
+  },
+  "411008": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5031,
+      5061
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Scorpio",
+    "evolution": 412008,
+    "name": {
+      "kr": "제압 불가의 잿불",
+      "en": "Uncontrollable Ember",
+      "id": "sp_na_411008"
+    },
+    "id": 411008
+  },
+  "411009": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5141,
+      5301
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Sagittarius",
+    "evolution": 412009,
+    "name": {
+      "kr": "확산의 잿불",
+      "en": "Diffusing Ember",
+      "id": "sp_na_411009"
+    },
+    "id": 411009
+  },
+  "411010": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5161
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Capricorn",
+    "evolution": 412010,
+    "name": {
+      "kr": "지옥의 잿불",
+      "en": "Ember of Hell",
+      "id": "sp_na_411010"
+    },
+    "id": 411010
+  },
+  "411011": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5091,
+      5131
+    ],
+    "iconImage": "Fire_C1_001",
+    "zodiac": "Aquarius",
+    "evolution": 412011,
+    "name": {
+      "kr": "멈추지 않는 잿불",
+      "en": "Unstoppable Ember",
+      "id": "sp_na_411011"
+    },
+    "id": 411011
+  },
+  "412001": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5012,
+      5192
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Aries",
+    "evolution": 413001,
+    "name": {
+      "kr": "폭발하는 불씨",
+      "en": "Exploding Fire",
+      "id": "sp_na_412001"
+    },
+    "id": 412001
+  },
+  "412002": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5082
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Taurus",
+    "evolution": 413002,
+    "name": {
+      "kr": "이글거리는 불씨",
+      "en": "Glaring Fire",
+      "id": "sp_na_412002"
+    },
+    "id": 412002
+  },
+  "412005": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5152
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Leo",
+    "evolution": 413005,
+    "name": {
+      "kr": "거머쥐는 불씨",
+      "en": "Burning Fire",
+      "id": "sp_na_412005"
+    },
+    "id": 412005
+  },
+  "412006": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5022
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Virgo",
+    "evolution": 413006,
+    "name": {
+      "kr": "무결점의 불씨",
+      "en": "Perfect Fire",
+      "id": "sp_na_412006"
+    },
+    "id": 412006
+  },
+  "412008": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5032,
+      5062
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Scorpio",
+    "evolution": 413008,
+    "name": {
+      "kr": "제압 불가의 불씨",
+      "en": "Uncontrollable Fire",
+      "id": "sp_na_412008"
+    },
+    "id": 412008
+  },
+  "412009": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5142,
+      5302
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Sagittarius",
+    "evolution": 413009,
+    "name": {
+      "kr": "확산의 불씨",
+      "en": "Diffusing Fire",
+      "id": "sp_na_412009"
+    },
+    "id": 412009
+  },
+  "412010": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5162
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Capricorn",
+    "evolution": 413010,
+    "name": {
+      "kr": "지옥의 불씨",
+      "en": "Fire of Hell",
+      "id": "sp_na_412010"
+    },
+    "id": 412010
+  },
+  "412011": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5092,
+      5132
+    ],
+    "iconImage": "Fire_C2_001",
+    "zodiac": "Aquarius",
+    "evolution": 413011,
+    "name": {
+      "kr": "멈추지 않는 불씨",
+      "en": "Unstoppable Fire",
+      "id": "sp_na_412011"
+    },
+    "id": 412011
+  },
+  "413001": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5013,
+      5193
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Aries",
+    "evolution": 414001,
+    "name": {
+      "kr": "폭발하는 열정",
+      "en": "Exploding Passion",
+      "id": "sp_na_413001"
+    },
+    "id": 413001
+  },
+  "413002": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5083
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Taurus",
+    "evolution": 414002,
+    "name": {
+      "kr": "이글거리는 열정",
+      "en": "Glaring Passion",
+      "id": "sp_na_413002"
+    },
+    "id": 413002
+  },
+  "413005": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5153
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Leo",
+    "evolution": 414005,
+    "name": {
+      "kr": "거머쥐는 열정",
+      "en": "Burning Passion",
+      "id": "sp_na_413005"
+    },
+    "id": 413005
+  },
+  "413006": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5023
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Virgo",
+    "evolution": 414006,
+    "name": {
+      "kr": "무결점의 열정",
+      "en": "Perfect Passion",
+      "id": "sp_na_413006"
+    },
+    "id": 413006
+  },
+  "413008": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5033,
+      5063
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Scorpio",
+    "evolution": 414008,
+    "name": {
+      "kr": "제압 불가의 열정",
+      "en": "Uncontrollable Passion",
+      "id": "sp_na_413008"
+    },
+    "id": 413008
+  },
+  "413009": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5143,
+      5303
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Sagittarius",
+    "evolution": 414009,
+    "name": {
+      "kr": "확산의 열정",
+      "en": "Diffusing Passion",
+      "id": "sp_na_413009"
+    },
+    "id": 413009
+  },
+  "413010": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5163
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Capricorn",
+    "evolution": 414010,
+    "name": {
+      "kr": "지옥의 열정",
+      "en": "Passion of Hell",
+      "id": "sp_na_413010"
+    },
+    "id": 413010
+  },
+  "413011": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5093,
+      5133
+    ],
+    "iconImage": "Fire_C3_001",
+    "zodiac": "Aquarius",
+    "evolution": 414011,
+    "name": {
+      "kr": "멈추지 않는 열정",
+      "en": "Unstoppable Passion",
+      "id": "sp_na_413011"
+    },
+    "id": 413011
+  },
+  "414001": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5014,
+      5194
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Aries",
+    "evolution": 415001,
+    "name": {
+      "kr": "폭발하는 불길",
+      "en": "Exploding Blaze",
+      "id": "sp_na_414001"
+    },
+    "id": 414001
+  },
+  "414002": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5084
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Taurus",
+    "evolution": 415002,
+    "name": {
+      "kr": "이글거리는 불길",
+      "en": "Glaring Blaze",
+      "id": "sp_na_414002"
+    },
+    "id": 414002
+  },
+  "414005": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5154
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Leo",
+    "evolution": 415005,
+    "name": {
+      "kr": "거머쥐는 불길",
+      "en": "Burning Blaze",
+      "id": "sp_na_414005"
+    },
+    "id": 414005
+  },
+  "414006": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5024
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Virgo",
+    "evolution": 415006,
+    "name": {
+      "kr": "무결점의 불길",
+      "en": "Perfect Blaze",
+      "id": "sp_na_414006"
+    },
+    "id": 414006
+  },
+  "414008": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5034,
+      5064
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Scorpio",
+    "evolution": 415008,
+    "name": {
+      "kr": "제압 불가의 불길",
+      "en": "Uncontrollable Blaze",
+      "id": "sp_na_414008"
+    },
+    "id": 414008
+  },
+  "414009": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5144,
+      5304
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Sagittarius",
+    "evolution": 415009,
+    "name": {
+      "kr": "확산의 불길",
+      "en": "Diffusing Blaze",
+      "id": "sp_na_414009"
+    },
+    "id": 414009
+  },
+  "414010": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5164
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Capricorn",
+    "evolution": 415010,
+    "name": {
+      "kr": "지옥의 불길",
+      "en": "Blaze of Hell",
+      "id": "sp_na_414010"
+    },
+    "id": 414010
+  },
+  "414011": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5094,
+      5134
+    ],
+    "iconImage": "Fire_C4_001",
+    "zodiac": "Aquarius",
+    "evolution": 415011,
+    "name": {
+      "kr": "멈추지 않는 불길",
+      "en": "Unstoppable Blaze",
+      "id": "sp_na_414011"
+    },
+    "id": 414011
+  },
+  "415001": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5015,
+      5195
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Aries",
+    "evolution": 416001,
+    "name": {
+      "kr": "폭발하는 업화",
+      "en": "Exploding Hellfire",
+      "id": "sp_na_415001"
+    },
+    "id": 415001
+  },
+  "415002": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5085
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Taurus",
+    "evolution": 416002,
+    "name": {
+      "kr": "이글거리는 업화",
+      "en": "Glaring Hellfire",
+      "id": "sp_na_415002"
+    },
+    "id": 415002
+  },
+  "415005": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5155
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Leo",
+    "evolution": 416005,
+    "name": {
+      "kr": "거머쥐는 업화",
+      "en": "Burning Hellfire",
+      "id": "sp_na_415005"
+    },
+    "id": 415005
+  },
+  "415006": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5025
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Virgo",
+    "evolution": 416006,
+    "name": {
+      "kr": "무결점의 업화",
+      "en": "Perfect Hellfire",
+      "id": "sp_na_415006"
+    },
+    "id": 415006
+  },
+  "415008": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5035,
+      5065
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Scorpio",
+    "evolution": 416008,
+    "name": {
+      "kr": "제압 불가의 업화",
+      "en": "Uncontrollable Hellfire",
+      "id": "sp_na_415008"
+    },
+    "id": 415008
+  },
+  "415009": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5145,
+      5305
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Sagittarius",
+    "evolution": 416009,
+    "name": {
+      "kr": "확산의 업화",
+      "en": "Diffusing Hellfire",
+      "id": "sp_na_415009"
+    },
+    "id": 415009
+  },
+  "415010": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5165
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Capricorn",
+    "evolution": 416010,
+    "name": {
+      "kr": "지옥의 업화",
+      "en": "Hellfire of the Underworld",
+      "id": "sp_na_415010"
+    },
+    "id": 415010
+  },
+  "415011": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5095,
+      5135
+    ],
+    "iconImage": "Fire_C5_001",
+    "zodiac": "Aquarius",
+    "evolution": 416011,
+    "name": {
+      "kr": "멈추지 않는 업화",
+      "en": "Unstoppable Hellfire",
+      "id": "sp_na_415011"
+    },
+    "id": 415011
+  },
+  "416001": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5016,
+      5196
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Aries",
+    "evolution": 416703,
+    "name": {
+      "kr": "폭발하는 염화",
+      "en": "Exploding Yama Fire",
+      "id": "sp_na_416001"
+    },
+    "id": 416001
+  },
+  "416002": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5086
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Taurus",
+    "evolution": 0,
+    "name": {
+      "kr": "이글거리는 염화",
+      "en": "Glaring Yama Fire",
+      "id": "sp_na_416002"
+    },
+    "id": 416002
+  },
+  "416005": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5156
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Leo",
+    "evolution": 0,
+    "name": {
+      "kr": "거머쥐는 염화",
+      "en": "Burning Yama Fire",
+      "id": "sp_na_416005"
+    },
+    "id": 416005
+  },
+  "416006": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5026
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Virgo",
+    "evolution": 0,
+    "name": {
+      "kr": "무결점의 염화",
+      "en": "Perfect Yama Fire",
+      "id": "sp_na_416006"
+    },
+    "id": 416006
+  },
+  "416008": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5036,
+      5066
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Scorpio",
+    "evolution": 416702,
+    "name": {
+      "kr": "제압 불가의 염화",
+      "en": "Uncontrollable Yama Fire",
+      "id": "sp_na_416008"
+    },
+    "id": 416008
+  },
+  "416009": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5146,
+      5306
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Sagittarius",
+    "evolution": 416704,
+    "name": {
+      "kr": "확산의 염화",
+      "en": "Diffusing Yama Fire",
+      "id": "sp_na_416009"
+    },
+    "id": 416009
+  },
+  "416010": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Ardor",
+    "skills": [
+      5166
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Capricorn",
+    "evolution": 0,
+    "name": {
+      "kr": "지옥의 염화",
+      "en": "Yama Fire of Hell",
+      "id": "sp_na_416010"
+    },
+    "id": 416010
+  },
+  "416011": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Ardor",
+    "skills": [
+      5096,
+      5136
+    ],
+    "iconImage": "Fire_C6_001",
+    "zodiac": "Aquarius",
+    "evolution": 416701,
+    "name": {
+      "kr": "멈추지 않는 염화",
+      "en": "Unstoppable Yama Fire",
+      "id": "sp_na_416011"
+    },
+    "id": 416011
+  },
+  "416701": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Ardor",
+    "skills": [
+      7011,
+      7012
+    ],
+    "iconImage": "Fire_U6_001",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "끝없이 불타는 물질",
+      "en": "Endlessly Burning Matter",
+      "id": "sp_na_416701"
+    },
+    "id": 416701
+  },
+  "416702": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Ardor",
+    "skills": [
+      7021,
+      7022
+    ],
+    "iconImage": "Fire_U6_002",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "불꽃 튀는 정수",
+      "en": "Blazing Essence",
+      "id": "sp_na_416702"
+    },
+    "id": 416702
+  },
+  "416703": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Ardor",
+    "skills": [
+      7031,
+      7032
+    ],
+    "iconImage": "Fire_U6_003",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "테라녹스의 피",
+      "en": "Teranox's Blood",
+      "id": "sp_na_416703"
+    },
+    "id": 416703
+  },
+  "416704": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Ardor",
+    "skills": [
+      7161,
+      7162
+    ],
+    "iconImage": "Fire_U6_004",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "발화 촉매",
+      "en": "Ignition Catalyst",
+      "id": "sp_na_416704"
+    },
+    "id": 416704
+  },
+  "421002": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5081,
+      5251
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Taurus",
+    "evolution": 422002,
+    "name": {
+      "kr": "불타는 서리",
+      "en": "Burning Frost",
+      "id": "sp_na_421002"
+    },
+    "id": 421002
+  },
+  "421003": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5051
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Gemini",
+    "evolution": 422003,
+    "name": {
+      "kr": "소멸하는 입자",
+      "en": "Terminating Particle",
+      "id": "sp_na_421003"
+    },
+    "id": 421003
+  },
+  "421004": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5111,
+      5311
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Cancer",
+    "evolution": 422004,
+    "name": {
+      "kr": "지배할 수 없는 서리",
+      "en": "Uncontrollable Frost",
+      "id": "sp_na_421004"
+    },
+    "id": 421004
+  },
+  "421005": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5151
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Leo",
+    "evolution": 422005,
+    "name": {
+      "kr": "거친 입자",
+      "en": "Rough Particle",
+      "id": "sp_na_421005"
+    },
+    "id": 421005
+  },
+  "421006": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5021,
+      5131
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Virgo",
+    "evolution": 422006,
+    "name": {
+      "kr": "영겁의 서리",
+      "en": "Frost of Eternity",
+      "id": "sp_na_421006"
+    },
+    "id": 421006
+  },
+  "421007": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5101
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Libra",
+    "evolution": 422007,
+    "name": {
+      "kr": "안정된 입자",
+      "en": "Stable Particle",
+      "id": "sp_na_421007"
+    },
+    "id": 421007
+  },
+  "421010": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5161,
+      5211
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Capricorn",
+    "evolution": 422010,
+    "name": {
+      "kr": "막을 수 없는 서리",
+      "en": "Unstoppable Frost",
+      "id": "sp_na_421010"
+    },
+    "id": 421010
+  },
+  "421012": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5071
+    ],
+    "iconImage": "Electric_C1_001",
+    "zodiac": "Pisces",
+    "evolution": 422012,
+    "name": {
+      "kr": "집속하는 입자",
+      "en": "Gathering Particle",
+      "id": "sp_na_421012"
+    },
+    "id": 421012
+  },
+  "422002": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5082,
+      5252
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Taurus",
+    "evolution": 423002,
+    "name": {
+      "kr": "불타는 냉기",
+      "en": "Burning Chill",
+      "id": "sp_na_422002"
+    },
+    "id": 422002
+  },
+  "422003": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5052
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Gemini",
+    "evolution": 423003,
+    "name": {
+      "kr": "소멸하는 전류",
+      "en": "Terminating Electricity",
+      "id": "sp_na_422003"
+    },
+    "id": 422003
+  },
+  "422004": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5112,
+      5312
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Cancer",
+    "evolution": 423004,
+    "name": {
+      "kr": "지배할 수 없는 냉기",
+      "en": "Uncontrollable Chill",
+      "id": "sp_na_422004"
+    },
+    "id": 422004
+  },
+  "422005": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5152
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Leo",
+    "evolution": 423005,
+    "name": {
+      "kr": "거친 전류",
+      "en": "Rough Electricity",
+      "id": "sp_na_422005"
+    },
+    "id": 422005
+  },
+  "422006": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5022,
+      5132
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Virgo",
+    "evolution": 423006,
+    "name": {
+      "kr": "영겁의 냉기",
+      "en": "Chill of Eternity",
+      "id": "sp_na_422006"
+    },
+    "id": 422006
+  },
+  "422007": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5102
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Libra",
+    "evolution": 423007,
+    "name": {
+      "kr": "안정된 전류",
+      "en": "Stable Electricity",
+      "id": "sp_na_422007"
+    },
+    "id": 422007
+  },
+  "422010": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5162,
+      5212
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Capricorn",
+    "evolution": 423010,
+    "name": {
+      "kr": "막을 수 없는 냉기",
+      "en": "Unstoppable Chill",
+      "id": "sp_na_422010"
+    },
+    "id": 422010
+  },
+  "422012": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5072
+    ],
+    "iconImage": "Electric_C2_001",
+    "zodiac": "Pisces",
+    "evolution": 423012,
+    "name": {
+      "kr": "집속하는 전류",
+      "en": "Gathering Electricity",
+      "id": "sp_na_422012"
+    },
+    "id": 422012
+  },
+  "423002": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5083,
+      5253
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Taurus",
+    "evolution": 424002,
+    "name": {
+      "kr": "불타는 냉정",
+      "en": "Burning Composure",
+      "id": "sp_na_423002"
+    },
+    "id": 423002
+  },
+  "423003": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5053
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Gemini",
+    "evolution": 424003,
+    "name": {
+      "kr": "소멸하는 과전류",
+      "en": "Terminating Current",
+      "id": "sp_na_423003"
+    },
+    "id": 423003
+  },
+  "423004": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5113,
+      5313
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Cancer",
+    "evolution": 424004,
+    "name": {
+      "kr": "지배할 수 없는 냉정",
+      "en": "Uncontrollable Composure",
+      "id": "sp_na_423004"
+    },
+    "id": 423004
+  },
+  "423005": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5153
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Leo",
+    "evolution": 424005,
+    "name": {
+      "kr": "거친 과전류",
+      "en": "Rough Current",
+      "id": "sp_na_423005"
+    },
+    "id": 423005
+  },
+  "423006": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5023,
+      5133
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Virgo",
+    "evolution": 424006,
+    "name": {
+      "kr": "영겁의 냉정",
+      "en": "Composure of Eternity",
+      "id": "sp_na_423006"
+    },
+    "id": 423006
+  },
+  "423007": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5103
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Libra",
+    "evolution": 424007,
+    "name": {
+      "kr": "안정된 과전류",
+      "en": "Stable Current",
+      "id": "sp_na_423007"
+    },
+    "id": 423007
+  },
+  "423010": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5163,
+      5213
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Capricorn",
+    "evolution": 424010,
+    "name": {
+      "kr": "막을 수 없는 냉정",
+      "en": "Unstoppable Composure",
+      "id": "sp_na_423010"
+    },
+    "id": 423010
+  },
+  "423012": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5073
+    ],
+    "iconImage": "Electric_C3_001",
+    "zodiac": "Pisces",
+    "evolution": 424012,
+    "name": {
+      "kr": "집속하는 과전류",
+      "en": "Gathering Current",
+      "id": "sp_na_423012"
+    },
+    "id": 423012
+  },
+  "424002": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5084,
+      5254
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Taurus",
+    "evolution": 425002,
+    "name": {
+      "kr": "불타는 빙하",
+      "en": "Burning Glacier",
+      "id": "sp_na_424002"
+    },
+    "id": 424002
+  },
+  "424003": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5054
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Gemini",
+    "evolution": 425003,
+    "name": {
+      "kr": "소멸하는 이온",
+      "en": "Terminating Ion",
+      "id": "sp_na_424003"
+    },
+    "id": 424003
+  },
+  "424004": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5114,
+      5314
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Cancer",
+    "evolution": 425004,
+    "name": {
+      "kr": "지배할 수 없는 빙하",
+      "en": "Uncontrollable Glacier",
+      "id": "sp_na_424004"
+    },
+    "id": 424004
+  },
+  "424005": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5154
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Leo",
+    "evolution": 425005,
+    "name": {
+      "kr": "거친 이온",
+      "en": "Rough Ion",
+      "id": "sp_na_424005"
+    },
+    "id": 424005
+  },
+  "424006": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5024,
+      5134
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Virgo",
+    "evolution": 425006,
+    "name": {
+      "kr": "영겁의 빙하",
+      "en": "Glacier of Eternity",
+      "id": "sp_na_424006"
+    },
+    "id": 424006
+  },
+  "424007": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5104
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Libra",
+    "evolution": 425007,
+    "name": {
+      "kr": "안정된 이온",
+      "en": "Stable Ion",
+      "id": "sp_na_424007"
+    },
+    "id": 424007
+  },
+  "424010": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5164,
+      5214
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Capricorn",
+    "evolution": 425010,
+    "name": {
+      "kr": "막을 수 없는 빙하",
+      "en": "Unstoppable Glacier",
+      "id": "sp_na_424010"
+    },
+    "id": 424010
+  },
+  "424012": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5074
+    ],
+    "iconImage": "Electric_C4_001",
+    "zodiac": "Pisces",
+    "evolution": 425012,
+    "name": {
+      "kr": "집속하는 이온",
+      "en": "Gathering Ion",
+      "id": "sp_na_424012"
+    },
+    "id": 424012
+  },
+  "425002": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5085,
+      5255
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Taurus",
+    "evolution": 426002,
+    "name": {
+      "kr": "불타는 겨울",
+      "en": "Burning Winter",
+      "id": "sp_na_425002"
+    },
+    "id": 425002
+  },
+  "425003": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5055
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Gemini",
+    "evolution": 426003,
+    "name": {
+      "kr": "소멸하는 천둥",
+      "en": "Terminating Thunder",
+      "id": "sp_na_425003"
+    },
+    "id": 425003
+  },
+  "425004": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5115,
+      5315
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Cancer",
+    "evolution": 426004,
+    "name": {
+      "kr": "지배할 수 없는 겨울",
+      "en": "Uncontrollable Winter",
+      "id": "sp_na_425004"
+    },
+    "id": 425004
+  },
+  "425005": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5155
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Leo",
+    "evolution": 426005,
+    "name": {
+      "kr": "거친 천둥",
+      "en": "Rough Thunder",
+      "id": "sp_na_425005"
+    },
+    "id": 425005
+  },
+  "425006": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5025,
+      5135
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Virgo",
+    "evolution": 426006,
+    "name": {
+      "kr": "영겁의 겨울",
+      "en": "Winter of Eternity",
+      "id": "sp_na_425006"
+    },
+    "id": 425006
+  },
+  "425007": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5105
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Libra",
+    "evolution": 426007,
+    "name": {
+      "kr": "안정된 천둥",
+      "en": "Stable Thunder",
+      "id": "sp_na_425007"
+    },
+    "id": 425007
+  },
+  "425010": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5165,
+      5215
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Capricorn",
+    "evolution": 426010,
+    "name": {
+      "kr": "막을 수 없는 겨울",
+      "en": "Unstoppable Winter",
+      "id": "sp_na_425010"
+    },
+    "id": 425010
+  },
+  "425012": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5075
+    ],
+    "iconImage": "Electric_C5_001",
+    "zodiac": "Pisces",
+    "evolution": 426012,
+    "name": {
+      "kr": "집속하는 천둥",
+      "en": "Gathering Thunder",
+      "id": "sp_na_425012"
+    },
+    "id": 425012
+  },
+  "426002": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5086,
+      5256
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Taurus",
+    "evolution": 426702,
+    "name": {
+      "kr": "불타는 얼음핵",
+      "en": "Burning Ice Core",
+      "id": "sp_na_426002"
+    },
+    "id": 426002
+  },
+  "426003": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5056
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Gemini",
+    "evolution": 0,
+    "name": {
+      "kr": "소멸하는 번개",
+      "en": "Terminating Lightning",
+      "id": "sp_na_426003"
+    },
+    "id": 426003
+  },
+  "426004": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5116,
+      5316
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Cancer",
+    "evolution": 426703,
+    "name": {
+      "kr": "지배할 수 없는 얼음핵",
+      "en": "Uncontrollable Ice Core",
+      "id": "sp_na_426004"
+    },
+    "id": 426004
+  },
+  "426005": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5156
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Leo",
+    "evolution": 0,
+    "name": {
+      "kr": "거친 번개",
+      "en": "Rough Lightning",
+      "id": "sp_na_426005"
+    },
+    "id": 426005
+  },
+  "426006": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5026,
+      5136
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Virgo",
+    "evolution": 426704,
+    "name": {
+      "kr": "영겁의 얼음핵",
+      "en": "Ice Core of Eternity",
+      "id": "sp_na_426006"
+    },
+    "id": 426006
+  },
+  "426007": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5106
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Libra",
+    "evolution": 0,
+    "name": {
+      "kr": "안정된 번개",
+      "en": "Stable Lightning",
+      "id": "sp_na_426007"
+    },
+    "id": 426007
+  },
+  "426010": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Thunder",
+    "skills": [
+      5166,
+      5216
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Capricorn",
+    "evolution": 426701,
+    "name": {
+      "kr": "막을 수 없는 얼음핵",
+      "en": "Unstoppable Ice Core",
+      "id": "sp_na_426010"
+    },
+    "id": 426010
+  },
+  "426012": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Thunder",
+    "skills": [
+      5076
+    ],
+    "iconImage": "Electric_C6_001",
+    "zodiac": "Pisces",
+    "evolution": 0,
+    "name": {
+      "kr": "집속하는 번개",
+      "en": "Gathering Lightning",
+      "id": "sp_na_426012"
+    },
+    "id": 426012
+  },
+  "426701": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Thunder",
+    "skills": [
+      7041,
+      7042
+    ],
+    "iconImage": "Electric_U6_001",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "침묵의 한파",
+      "en": "Silent Cold",
+      "id": "sp_na_426701"
+    },
+    "id": 426701
+  },
+  "426702": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Thunder",
+    "skills": [
+      7051,
+      7052
+    ],
+    "iconImage": "Electric_U6_002",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "요동치는 번개의 심장",
+      "en": "Shaking Heart of Thunder",
+      "id": "sp_na_426702"
+    },
+    "id": 426702
+  },
+  "426703": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Thunder",
+    "skills": [
+      7061
+    ],
+    "iconImage": "Electric_U6_003",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "굴라바리스",
+      "en": "Glabaris",
+      "id": "sp_na_426703"
+    },
+    "id": 426703
+  },
+  "426704": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Thunder",
+    "skills": [
+      7171,
+      7172
+    ],
+    "iconImage": "Electric_U6_004",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "별의 눈물",
+      "en": "Star's Tears",
+      "id": "sp_na_426704"
+    },
+    "id": 426704
+  },
+  "431002": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5081
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Taurus",
+    "evolution": 432002,
+    "name": {
+      "kr": "피어나는 이슬",
+      "en": "Blooming Dew",
+      "id": "sp_na_431002"
+    },
+    "id": 431002
+  },
+  "431003": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5051,
+      5251
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Gemini",
+    "evolution": 432003,
+    "name": {
+      "kr": "침투하는 이슬",
+      "en": "Permeating Dew",
+      "id": "sp_na_431003"
+    },
+    "id": 431003
+  },
+  "431005": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5151,
+      5271
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Leo",
+    "evolution": 432005,
+    "name": {
+      "kr": "회귀하는 이슬",
+      "en": "Revolving Dew",
+      "id": "sp_na_431005"
+    },
+    "id": 431005
+  },
+  "431008": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5031,
+      5061
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Scorpio",
+    "evolution": 432008,
+    "name": {
+      "kr": "천년나무의 이슬",
+      "en": " Dew of 1,000-year-old Tree",
+      "id": "sp_na_431008"
+    },
+    "id": 431008
+  },
+  "431009": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5141
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Sagittarius",
+    "evolution": 432009,
+    "name": {
+      "kr": "나눔의 이슬",
+      "en": "Dew of Sharing",
+      "id": "sp_na_431009"
+    },
+    "id": 431009
+  },
+  "431010": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5161
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Capricorn",
+    "evolution": 432010,
+    "name": {
+      "kr": "관철하는 이슬",
+      "en": "Realizing Dew",
+      "id": "sp_na_431010"
+    },
+    "id": 431010
+  },
+  "431011": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5091
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Aquarius",
+    "evolution": 432011,
+    "name": {
+      "kr": "지지않는 이슬",
+      "en": "Unbeatable Dew",
+      "id": "sp_na_431011"
+    },
+    "id": 431011
+  },
+  "431012": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5071,
+      5131
+    ],
+    "iconImage": "Wind_C1_001",
+    "zodiac": "Pisces",
+    "evolution": 432012,
+    "name": {
+      "kr": "쾌속 질주의 이슬",
+      "en": "Fast Scuttle Dew",
+      "id": "sp_na_431012"
+    },
+    "id": 431012
+  },
+  "432002": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5082
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Taurus",
+    "evolution": 433002,
+    "name": {
+      "kr": "피어나는 뿌리",
+      "en": "Blooming Roots",
+      "id": "sp_na_432002"
+    },
+    "id": 432002
+  },
+  "432003": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5052,
+      5252
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Gemini",
+    "evolution": 433003,
+    "name": {
+      "kr": "침투하는 뿌리",
+      "en": "Permeating Roots",
+      "id": "sp_na_432003"
+    },
+    "id": 432003
+  },
+  "432005": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5152,
+      5272
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Leo",
+    "evolution": 433005,
+    "name": {
+      "kr": "회귀하는 뿌리",
+      "en": "Revolving Roots",
+      "id": "sp_na_432005"
+    },
+    "id": 432005
+  },
+  "432008": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5032,
+      5062
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Scorpio",
+    "evolution": 433008,
+    "name": {
+      "kr": "천년나무의 뿌리",
+      "en": " Roots of 1,000-year-old Tree",
+      "id": "sp_na_432008"
+    },
+    "id": 432008
+  },
+  "432009": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5142
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Sagittarius",
+    "evolution": 433009,
+    "name": {
+      "kr": "나눔의 뿌리",
+      "en": "Roots of Sharing",
+      "id": "sp_na_432009"
+    },
+    "id": 432009
+  },
+  "432010": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5162
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Capricorn",
+    "evolution": 433010,
+    "name": {
+      "kr": "관철하는 뿌리",
+      "en": "Realizing Roots",
+      "id": "sp_na_432010"
+    },
+    "id": 432010
+  },
+  "432011": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5092
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Aquarius",
+    "evolution": 433011,
+    "name": {
+      "kr": "지지않는 뿌리",
+      "en": "Unbeatable Roots",
+      "id": "sp_na_432011"
+    },
+    "id": 432011
+  },
+  "432012": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5072,
+      5132
+    ],
+    "iconImage": "Wind_C2_001",
+    "zodiac": "Pisces",
+    "evolution": 433012,
+    "name": {
+      "kr": "쾌속 질주의 뿌리",
+      "en": "Fast Scuttle Roots",
+      "id": "sp_na_432012"
+    },
+    "id": 432012
+  },
+  "433002": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5083
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Taurus",
+    "evolution": 434002,
+    "name": {
+      "kr": "피어나는 계절",
+      "en": "Blooming Season",
+      "id": "sp_na_433002"
+    },
+    "id": 433002
+  },
+  "433003": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5053,
+      5253
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Gemini",
+    "evolution": 434003,
+    "name": {
+      "kr": "침투하는 계절",
+      "en": "Permeating Season",
+      "id": "sp_na_433003"
+    },
+    "id": 433003
+  },
+  "433005": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5153,
+      5273
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Leo",
+    "evolution": 434005,
+    "name": {
+      "kr": "회귀하는 계절",
+      "en": "Revolving Season",
+      "id": "sp_na_433005"
+    },
+    "id": 433005
+  },
+  "433008": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5033,
+      5063
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Scorpio",
+    "evolution": 434008,
+    "name": {
+      "kr": "천년나무의 계절",
+      "en": " Season of 1,000-year-old Tree",
+      "id": "sp_na_433008"
+    },
+    "id": 433008
+  },
+  "433009": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5143
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Sagittarius",
+    "evolution": 434009,
+    "name": {
+      "kr": "나눔의 계절",
+      "en": "Season of Sharing",
+      "id": "sp_na_433009"
+    },
+    "id": 433009
+  },
+  "433010": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5163
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Capricorn",
+    "evolution": 434010,
+    "name": {
+      "kr": "관철하는 계절",
+      "en": "Realizing Season",
+      "id": "sp_na_433010"
+    },
+    "id": 433010
+  },
+  "433011": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5093
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Aquarius",
+    "evolution": 434011,
+    "name": {
+      "kr": "지지않는 계절",
+      "en": "Unbeatable Season",
+      "id": "sp_na_433011"
+    },
+    "id": 433011
+  },
+  "433012": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5073,
+      5133
+    ],
+    "iconImage": "Wind_C3_001",
+    "zodiac": "Pisces",
+    "evolution": 434012,
+    "name": {
+      "kr": "쾌속 질주의 계절",
+      "en": "Fast Scuttle Season",
+      "id": "sp_na_433012"
+    },
+    "id": 433012
+  },
+  "434002": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5084
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Taurus",
+    "evolution": 435002,
+    "name": {
+      "kr": "피어나는 정수",
+      "en": "Blooming Essence",
+      "id": "sp_na_434002"
+    },
+    "id": 434002
+  },
+  "434003": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5054,
+      5254
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Gemini",
+    "evolution": 435003,
+    "name": {
+      "kr": "침투하는 정수",
+      "en": "Permeating Essence",
+      "id": "sp_na_434003"
+    },
+    "id": 434003
+  },
+  "434005": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5154,
+      5274
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Leo",
+    "evolution": 435005,
+    "name": {
+      "kr": "회귀하는 정수",
+      "en": "Revolving Essence",
+      "id": "sp_na_434005"
+    },
+    "id": 434005
+  },
+  "434008": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5034,
+      5064
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Scorpio",
+    "evolution": 435008,
+    "name": {
+      "kr": "천년나무의 정수",
+      "en": " Essence of 1,000-year-old Tree",
+      "id": "sp_na_434008"
+    },
+    "id": 434008
+  },
+  "434009": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5144
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Sagittarius",
+    "evolution": 435009,
+    "name": {
+      "kr": "나눔의 정수",
+      "en": "Essence of Sharing",
+      "id": "sp_na_434009"
+    },
+    "id": 434009
+  },
+  "434010": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5164
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Capricorn",
+    "evolution": 435010,
+    "name": {
+      "kr": "관철하는 정수",
+      "en": "Realizing Essence",
+      "id": "sp_na_434010"
+    },
+    "id": 434010
+  },
+  "434011": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5094
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Aquarius",
+    "evolution": 435011,
+    "name": {
+      "kr": "지지않는 정수",
+      "en": "Unbeatable Essence",
+      "id": "sp_na_434011"
+    },
+    "id": 434011
+  },
+  "434012": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5074,
+      5134
+    ],
+    "iconImage": "Wind_C4_001",
+    "zodiac": "Pisces",
+    "evolution": 435012,
+    "name": {
+      "kr": "쾌속 질주의 정수",
+      "en": "Fast Scuttle Essence",
+      "id": "sp_na_434012"
+    },
+    "id": 434012
+  },
+  "435002": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5085
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Taurus",
+    "evolution": 436002,
+    "name": {
+      "kr": "피어나는 생명",
+      "en": "Blooming Life",
+      "id": "sp_na_435002"
+    },
+    "id": 435002
+  },
+  "435003": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5055,
+      5255
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Gemini",
+    "evolution": 436003,
+    "name": {
+      "kr": "침투하는 생명",
+      "en": "Permeating Life",
+      "id": "sp_na_435003"
+    },
+    "id": 435003
+  },
+  "435005": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5155,
+      5275
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Leo",
+    "evolution": 436005,
+    "name": {
+      "kr": "회귀하는 생명",
+      "en": "Revolving Life",
+      "id": "sp_na_435005"
+    },
+    "id": 435005
+  },
+  "435008": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5035,
+      5065
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Scorpio",
+    "evolution": 436008,
+    "name": {
+      "kr": "천년나무의 생명",
+      "en": " Life of 1,000-year-old Tree",
+      "id": "sp_na_435008"
+    },
+    "id": 435008
+  },
+  "435009": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5145
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Sagittarius",
+    "evolution": 436009,
+    "name": {
+      "kr": "나눔의 생명",
+      "en": "Life of Sharing",
+      "id": "sp_na_435009"
+    },
+    "id": 435009
+  },
+  "435010": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5165
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Capricorn",
+    "evolution": 436010,
+    "name": {
+      "kr": "관철하는 생명",
+      "en": "Realizing Life",
+      "id": "sp_na_435010"
+    },
+    "id": 435010
+  },
+  "435011": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5095
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Aquarius",
+    "evolution": 436011,
+    "name": {
+      "kr": "지지않는 생명",
+      "en": "Unbeatable Life",
+      "id": "sp_na_435011"
+    },
+    "id": 435011
+  },
+  "435012": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5075,
+      5135
+    ],
+    "iconImage": "Wind_C5_001",
+    "zodiac": "Pisces",
+    "evolution": 436012,
+    "name": {
+      "kr": "쾌속 질주의 생명",
+      "en": "Fast Scuttle Life",
+      "id": "sp_na_435012"
+    },
+    "id": 435012
+  },
+  "436002": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5086
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Taurus",
+    "evolution": 0,
+    "name": {
+      "kr": "피어나는 윤회",
+      "en": "Blooming Cycle",
+      "id": "sp_na_436002"
+    },
+    "id": 436002
+  },
+  "436003": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5056,
+      5256
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Gemini",
+    "evolution": 436703,
+    "name": {
+      "kr": "침투하는 윤회",
+      "en": "Permeating Cycle",
+      "id": "sp_na_436003"
+    },
+    "id": 436003
+  },
+  "436005": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5156,
+      5276
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Leo",
+    "evolution": 436704,
+    "name": {
+      "kr": "회귀하는 윤회",
+      "en": "Revolving Cycle",
+      "id": "sp_na_436005"
+    },
+    "id": 436005
+  },
+  "436008": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5036,
+      5066
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Scorpio",
+    "evolution": 436701,
+    "name": {
+      "kr": "천년나무의 윤회",
+      "en": " Cycle of 1,000-year-old Tree",
+      "id": "sp_na_436008"
+    },
+    "id": 436008
+  },
+  "436009": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5146
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Sagittarius",
+    "evolution": 0,
+    "name": {
+      "kr": "나눔의 윤회",
+      "en": "Cycle of Sharing",
+      "id": "sp_na_436009"
+    },
+    "id": 436009
+  },
+  "436010": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5166
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Capricorn",
+    "evolution": 0,
+    "name": {
+      "kr": "관철하는 윤회",
+      "en": "Realizing Cycle",
+      "id": "sp_na_436010"
+    },
+    "id": 436010
+  },
+  "436011": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Whirlwind",
+    "skills": [
+      5096
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Aquarius",
+    "evolution": 0,
+    "name": {
+      "kr": "지지않는 윤회",
+      "en": "Unbeatable Cycle",
+      "id": "sp_na_436011"
+    },
+    "id": 436011
+  },
+  "436012": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Whirlwind",
+    "skills": [
+      5076,
+      5136
+    ],
+    "iconImage": "Wind_C6_001",
+    "zodiac": "Pisces",
+    "evolution": 436702,
+    "name": {
+      "kr": "쾌속 질주의 윤회",
+      "en": "Fast Scuttle Cycle",
+      "id": "sp_na_436012"
+    },
+    "id": 436012
+  },
+  "436701": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Whirlwind",
+    "skills": [
+      7071,
+      7072
+    ],
+    "iconImage": "Wind_U6_001",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "대지모신의 가호",
+      "en": "Protection of Mother Earth",
+      "id": "sp_na_436701"
+    },
+    "id": 436701
+  },
+  "436702": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Whirlwind",
+    "skills": [
+      7081,
+      7082
+    ],
+    "iconImage": "Wind_U6_002",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "태고의 습격자",
+      "en": "Ancient Stormer",
+      "id": "sp_na_436702"
+    },
+    "id": 436702
+  },
+  "436703": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Whirlwind",
+    "skills": [
+      7091,
+      7092
+    ],
+    "iconImage": "Wind_U6_003",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "프레이의 선고",
+      "en": "Prey's Sentence",
+      "id": "sp_na_436703"
+    },
+    "id": 436703
+  },
+  "436704": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Whirlwind",
+    "skills": [
+      7181,
+      7182
+    ],
+    "iconImage": "Wind_U6_004",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "울부짖는 대지",
+      "en": "Earth's Cry",
+      "id": "sp_na_436704"
+    },
+    "id": 436704
+  },
+  "441001": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5011,
+      5171
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Aries",
+    "evolution": 442001,
+    "name": {
+      "kr": "천공의 의지",
+      "en": "Sky Arena's Will",
+      "id": "sp_na_441001"
+    },
+    "id": 441001
+  },
+  "441002": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5081,
+      5181
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Taurus",
+    "evolution": 442002,
+    "name": {
+      "kr": "마지막 의지",
+      "en": "Last Will",
+      "id": "sp_na_441002"
+    },
+    "id": 441002
+  },
+  "441004": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5111
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Cancer",
+    "evolution": 442004,
+    "name": {
+      "kr": "두려움이 없는 의지",
+      "en": "Fearless Will",
+      "id": "sp_na_441004"
+    },
+    "id": 441004
+  },
+  "441006": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5021
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Virgo",
+    "evolution": 442006,
+    "name": {
+      "kr": "단 하나의 의지",
+      "en": "One and Only Will",
+      "id": "sp_na_441006"
+    },
+    "id": 441006
+  },
+  "441007": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5101,
+      5061
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Libra",
+    "evolution": 442007,
+    "name": {
+      "kr": "신성한 의지",
+      "en": "Holy Will",
+      "id": "sp_na_441007"
+    },
+    "id": 441007
+  },
+  "441010": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5161
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Capricorn",
+    "evolution": 442010,
+    "name": {
+      "kr": "영웅의 의지",
+      "en": "Hero's Will",
+      "id": "sp_na_441010"
+    },
+    "id": 441010
+  },
+  "441011": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5091,
+      5321
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Aquarius",
+    "evolution": 442011,
+    "name": {
+      "kr": "갈구하는 의지",
+      "en": "Craving Will",
+      "id": "sp_na_441011"
+    },
+    "id": 441011
+  },
+  "441012": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5071
+    ],
+    "iconImage": "Light_C1_001",
+    "zodiac": "Pisces",
+    "evolution": 442012,
+    "name": {
+      "kr": "진격의 의지",
+      "en": "Gigantic Will",
+      "id": "sp_na_441012"
+    },
+    "id": 441012
+  },
+  "442001": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5012,
+      5172
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Aries",
+    "evolution": 443001,
+    "name": {
+      "kr": "천공의 빛",
+      "en": "Sky Arena's Light",
+      "id": "sp_na_442001"
+    },
+    "id": 442001
+  },
+  "442002": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5082,
+      5182
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Taurus",
+    "evolution": 443002,
+    "name": {
+      "kr": "마지막 빛",
+      "en": "Last Light",
+      "id": "sp_na_442002"
+    },
+    "id": 442002
+  },
+  "442004": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5112
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Cancer",
+    "evolution": 443004,
+    "name": {
+      "kr": "두려움이 없는 빛",
+      "en": "Fearless Light",
+      "id": "sp_na_442004"
+    },
+    "id": 442004
+  },
+  "442006": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5022
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Virgo",
+    "evolution": 443006,
+    "name": {
+      "kr": "단 하나의 빛",
+      "en": "One and Only Light",
+      "id": "sp_na_442006"
+    },
+    "id": 442006
+  },
+  "442007": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5102,
+      5062
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Libra",
+    "evolution": 443007,
+    "name": {
+      "kr": "신성한 빛",
+      "en": "Holy Light",
+      "id": "sp_na_442007"
+    },
+    "id": 442007
+  },
+  "442010": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5162
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Capricorn",
+    "evolution": 443010,
+    "name": {
+      "kr": "영웅의 빛",
+      "en": "Hero's Light",
+      "id": "sp_na_442010"
+    },
+    "id": 442010
+  },
+  "442011": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5092,
+      5322
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Aquarius",
+    "evolution": 443011,
+    "name": {
+      "kr": "갈구하는 빛",
+      "en": "Craving Light",
+      "id": "sp_na_442011"
+    },
+    "id": 442011
+  },
+  "442012": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5072
+    ],
+    "iconImage": "Light_C2_001",
+    "zodiac": "Pisces",
+    "evolution": 443012,
+    "name": {
+      "kr": "진격의 빛",
+      "en": "Gigantic Light",
+      "id": "sp_na_442012"
+    },
+    "id": 442012
+  },
+  "443001": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5013,
+      5173
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Aries",
+    "evolution": 444001,
+    "name": {
+      "kr": "천공의 포용",
+      "en": "Sky Arena's Tolerance",
+      "id": "sp_na_443001"
+    },
+    "id": 443001
+  },
+  "443002": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5083,
+      5183
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Taurus",
+    "evolution": 444002,
+    "name": {
+      "kr": "마지막 포용",
+      "en": "Last Tolerance",
+      "id": "sp_na_443002"
+    },
+    "id": 443002
+  },
+  "443004": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5113
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Cancer",
+    "evolution": 444004,
+    "name": {
+      "kr": "두려움이 없는 포용",
+      "en": "Fearless Tolerance",
+      "id": "sp_na_443004"
+    },
+    "id": 443004
+  },
+  "443006": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5023
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Virgo",
+    "evolution": 444006,
+    "name": {
+      "kr": "단 하나의 포용",
+      "en": "One and Only Tolerance",
+      "id": "sp_na_443006"
+    },
+    "id": 443006
+  },
+  "443007": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5103,
+      5063
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Libra",
+    "evolution": 444007,
+    "name": {
+      "kr": "신성한 포용",
+      "en": "Holy Tolerance",
+      "id": "sp_na_443007"
+    },
+    "id": 443007
+  },
+  "443010": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5163
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Capricorn",
+    "evolution": 444010,
+    "name": {
+      "kr": "영웅의 포용",
+      "en": "Hero's Tolerance",
+      "id": "sp_na_443010"
+    },
+    "id": 443010
+  },
+  "443011": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5093,
+      5323
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Aquarius",
+    "evolution": 444011,
+    "name": {
+      "kr": "갈구하는 포용",
+      "en": "Craving Tolerance",
+      "id": "sp_na_443011"
+    },
+    "id": 443011
+  },
+  "443012": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5073
+    ],
+    "iconImage": "Light_C3_001",
+    "zodiac": "Pisces",
+    "evolution": 444012,
+    "name": {
+      "kr": "진격의 포용",
+      "en": "Gigantic Tolerance",
+      "id": "sp_na_443012"
+    },
+    "id": 443012
+  },
+  "444001": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5014,
+      5174
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Aries",
+    "evolution": 445001,
+    "name": {
+      "kr": "천공의 영광",
+      "en": "Sky Arena's Glory",
+      "id": "sp_na_444001"
+    },
+    "id": 444001
+  },
+  "444002": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5084,
+      5184
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Taurus",
+    "evolution": 445002,
+    "name": {
+      "kr": "마지막 영광",
+      "en": "Last Glory",
+      "id": "sp_na_444002"
+    },
+    "id": 444002
+  },
+  "444004": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5114
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Cancer",
+    "evolution": 445004,
+    "name": {
+      "kr": "두려움이 없는 영광",
+      "en": "Fearless Glory",
+      "id": "sp_na_444004"
+    },
+    "id": 444004
+  },
+  "444006": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5024
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Virgo",
+    "evolution": 445006,
+    "name": {
+      "kr": "단 하나의 영광",
+      "en": "One and Only Glory",
+      "id": "sp_na_444006"
+    },
+    "id": 444006
+  },
+  "444007": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5104,
+      5064
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Libra",
+    "evolution": 445007,
+    "name": {
+      "kr": "신성한 영광",
+      "en": "Holy Glory",
+      "id": "sp_na_444007"
+    },
+    "id": 444007
+  },
+  "444010": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5164
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Capricorn",
+    "evolution": 445010,
+    "name": {
+      "kr": "영웅의 영광",
+      "en": "Hero's Glory",
+      "id": "sp_na_444010"
+    },
+    "id": 444010
+  },
+  "444011": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5094,
+      5324
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Aquarius",
+    "evolution": 445011,
+    "name": {
+      "kr": "갈구하는 영광",
+      "en": "Craving Glory",
+      "id": "sp_na_444011"
+    },
+    "id": 444011
+  },
+  "444012": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5074
+    ],
+    "iconImage": "Light_C4_001",
+    "zodiac": "Pisces",
+    "evolution": 445012,
+    "name": {
+      "kr": "진격의 영광",
+      "en": "Gigantic Glory",
+      "id": "sp_na_444012"
+    },
+    "id": 444012
+  },
+  "445001": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5015,
+      5175
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Aries",
+    "evolution": 446001,
+    "name": {
+      "kr": "천공의 고결",
+      "en": "Sky Arena's Nobility",
+      "id": "sp_na_445001"
+    },
+    "id": 445001
+  },
+  "445002": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5085,
+      5185
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Taurus",
+    "evolution": 446002,
+    "name": {
+      "kr": "마지막 고결",
+      "en": "Last Nobility",
+      "id": "sp_na_445002"
+    },
+    "id": 445002
+  },
+  "445004": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5115
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Cancer",
+    "evolution": 446004,
+    "name": {
+      "kr": "두려움이 없는 고결",
+      "en": "Fearless Nobility",
+      "id": "sp_na_445004"
+    },
+    "id": 445004
+  },
+  "445006": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5025
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Virgo",
+    "evolution": 446006,
+    "name": {
+      "kr": "단 하나의 고결",
+      "en": "One and Only Nobility",
+      "id": "sp_na_445006"
+    },
+    "id": 445006
+  },
+  "445007": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5105,
+      5065
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Libra",
+    "evolution": 446007,
+    "name": {
+      "kr": "신성한 고결",
+      "en": "Holy Nobility",
+      "id": "sp_na_445007"
+    },
+    "id": 445007
+  },
+  "445010": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5165
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Capricorn",
+    "evolution": 446010,
+    "name": {
+      "kr": "영웅의 고결",
+      "en": "Hero's Nobility",
+      "id": "sp_na_445010"
+    },
+    "id": 445010
+  },
+  "445011": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5095,
+      5325
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Aquarius",
+    "evolution": 446011,
+    "name": {
+      "kr": "갈구하는 고결",
+      "en": "Craving Nobility",
+      "id": "sp_na_445011"
+    },
+    "id": 445011
+  },
+  "445012": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5075
+    ],
+    "iconImage": "Light_C5_001",
+    "zodiac": "Pisces",
+    "evolution": 446012,
+    "name": {
+      "kr": "진격의 고결",
+      "en": "Gigantic Nobility",
+      "id": "sp_na_445012"
+    },
+    "id": 445012
+  },
+  "446001": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5016,
+      5176
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Aries",
+    "evolution": 446704,
+    "name": {
+      "kr": "천공의 섬광",
+      "en": "Sky Arena's Flash",
+      "id": "sp_na_446001"
+    },
+    "id": 446001
+  },
+  "446002": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5086,
+      5186
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Taurus",
+    "evolution": 446703,
+    "name": {
+      "kr": "마지막 섬광",
+      "en": "Last Flash",
+      "id": "sp_na_446002"
+    },
+    "id": 446002
+  },
+  "446004": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5116
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Cancer",
+    "evolution": 0,
+    "name": {
+      "kr": "두려움이 없는 섬광",
+      "en": "Fearless Flash",
+      "id": "sp_na_446004"
+    },
+    "id": 446004
+  },
+  "446006": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5026
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Virgo",
+    "evolution": 0,
+    "name": {
+      "kr": "단 하나의 섬광",
+      "en": "One and Only Flash",
+      "id": "sp_na_446006"
+    },
+    "id": 446006
+  },
+  "446007": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5106,
+      5066
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Libra",
+    "evolution": 446702,
+    "name": {
+      "kr": "신성한 섬광",
+      "en": "Holy Flash",
+      "id": "sp_na_446007"
+    },
+    "id": 446007
+  },
+  "446010": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5166
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Capricorn",
+    "evolution": 0,
+    "name": {
+      "kr": "영웅의 섬광",
+      "en": "Hero's Flash",
+      "id": "sp_na_446010"
+    },
+    "id": 446010
+  },
+  "446011": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Light",
+    "skills": [
+      5096,
+      5326
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Aquarius",
+    "evolution": 446701,
+    "name": {
+      "kr": "갈구하는 섬광",
+      "en": "Craving Flash",
+      "id": "sp_na_446011"
+    },
+    "id": 446011
+  },
+  "446012": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Light",
+    "skills": [
+      5076
+    ],
+    "iconImage": "Light_C6_001",
+    "zodiac": "Pisces",
+    "evolution": 0,
+    "name": {
+      "kr": "진격의 섬광",
+      "en": "Gigantic Flash",
+      "id": "sp_na_446012"
+    },
+    "id": 446012
+  },
+  "446701": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Light",
+    "skills": [
+      7101,
+      7102
+    ],
+    "iconImage": "Light_U6_001",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "천 명의 감시자",
+      "en": "Thousand Watchers",
+      "id": "sp_na_446701"
+    },
+    "id": 446701
+  },
+  "446702": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Light",
+    "skills": [
+      7111,
+      7112
+    ],
+    "iconImage": "Light_U6_002",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "에르말티온",
+      "en": "Ermaltion",
+      "id": "sp_na_446702"
+    },
+    "id": 446702
+  },
+  "446703": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Light",
+    "skills": [
+      7121,
+      7122
+    ],
+    "iconImage": "Light_U6_003",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "메타트론의 의지",
+      "en": "Metatron's Will",
+      "id": "sp_na_446703"
+    },
+    "id": 446703
+  },
+  "446704": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Light",
+    "skills": [
+      7191,
+      7192
+    ],
+    "iconImage": "Light_U6_004",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "빛의 낙원",
+      "en": "Paradise of Light",
+      "id": "sp_na_446704"
+    },
+    "id": 446704
+  },
+  "451001": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5011
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Aries",
+    "evolution": 452001,
+    "name": {
+      "kr": "순수한 질투",
+      "en": "Pure Jealousy",
+      "id": "sp_na_451001"
+    },
+    "id": 451001
+  },
+  "451003": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5051,
+      5291
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Gemini",
+    "evolution": 452003,
+    "name": {
+      "kr": "끓어오르는 질투",
+      "en": "Seething Jealousy",
+      "id": "sp_na_451003"
+    },
+    "id": 451003
+  },
+  "451004": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5111,
+      5331
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Cancer",
+    "evolution": 452004,
+    "name": {
+      "kr": "파고드는 질투",
+      "en": "Gnawing Jealousy",
+      "id": "sp_na_451004"
+    },
+    "id": 451004
+  },
+  "451005": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5151,
+      5241
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Leo",
+    "evolution": 452005,
+    "name": {
+      "kr": "짓궂은 질투",
+      "en": "Spiteful Jealousy",
+      "id": "sp_na_451005"
+    },
+    "id": 451005
+  },
+  "451007": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5101
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Libra",
+    "evolution": 452007,
+    "name": {
+      "kr": "생존의지의 질투",
+      "en": "Surviving Jealousy",
+      "id": "sp_na_451007"
+    },
+    "id": 451007
+  },
+  "451008": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5031
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Scorpio",
+    "evolution": 452008,
+    "name": {
+      "kr": "무아지경의 질투",
+      "en": "Ecstatic Jealousy",
+      "id": "sp_na_451008"
+    },
+    "id": 451008
+  },
+  "451009": {
+    "value": 1,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5141
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Sagittarius",
+    "evolution": 452009,
+    "name": {
+      "kr": "악마의 질투",
+      "en": "Devil's Jealousy",
+      "id": "sp_na_451009"
+    },
+    "id": 451009
+  },
+  "451012": {
+    "value": 1,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5071,
+      5121
+    ],
+    "iconImage": "Darkness_C1_001",
+    "zodiac": "Pisces",
+    "evolution": 452012,
+    "name": {
+      "kr": "요망스런 질투",
+      "en": "Wicked Jealousy",
+      "id": "sp_na_451012"
+    },
+    "id": 451012
+  },
+  "452001": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5012
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Aries",
+    "evolution": 453001,
+    "name": {
+      "kr": "순수한 집착",
+      "en": "Pure Attachment",
+      "id": "sp_na_452001"
+    },
+    "id": 452001
+  },
+  "452003": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5052,
+      5292
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Gemini",
+    "evolution": 453003,
+    "name": {
+      "kr": "끓어오르는 집착",
+      "en": "Seething Attachment",
+      "id": "sp_na_452003"
+    },
+    "id": 452003
+  },
+  "452004": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5112,
+      5332
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Cancer",
+    "evolution": 453004,
+    "name": {
+      "kr": "파고드는 집착",
+      "en": "Gnawing Attachment",
+      "id": "sp_na_452004"
+    },
+    "id": 452004
+  },
+  "452005": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5152,
+      5242
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Leo",
+    "evolution": 453005,
+    "name": {
+      "kr": "짓궂은 집착",
+      "en": "Spiteful Attachment",
+      "id": "sp_na_452005"
+    },
+    "id": 452005
+  },
+  "452007": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5102
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Libra",
+    "evolution": 453007,
+    "name": {
+      "kr": "생존의지의 집착",
+      "en": "Surviving Attachment",
+      "id": "sp_na_452007"
+    },
+    "id": 452007
+  },
+  "452008": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5032
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Scorpio",
+    "evolution": 453008,
+    "name": {
+      "kr": "무아지경의 집착",
+      "en": "Ecstatic Attachment",
+      "id": "sp_na_452008"
+    },
+    "id": 452008
+  },
+  "452009": {
+    "value": 2,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5142
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Sagittarius",
+    "evolution": 453009,
+    "name": {
+      "kr": "악마의 집착",
+      "en": "Devil's Attachment",
+      "id": "sp_na_452009"
+    },
+    "id": 452009
+  },
+  "452012": {
+    "value": 2,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5072,
+      5122
+    ],
+    "iconImage": "Darkness_C2_001",
+    "zodiac": "Pisces",
+    "evolution": 453012,
+    "name": {
+      "kr": "요망스런 집착",
+      "en": "Wicked Attachment",
+      "id": "sp_na_452012"
+    },
+    "id": 452012
+  },
+  "453001": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5013
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Aries",
+    "evolution": 454001,
+    "name": {
+      "kr": "순수한 애증",
+      "en": "Pure Love-Hate",
+      "id": "sp_na_453001"
+    },
+    "id": 453001
+  },
+  "453003": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5053,
+      5293
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Gemini",
+    "evolution": 454003,
+    "name": {
+      "kr": "끓어오르는 애증",
+      "en": "Seething Love-Hate",
+      "id": "sp_na_453003"
+    },
+    "id": 453003
+  },
+  "453004": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5113,
+      5333
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Cancer",
+    "evolution": 454004,
+    "name": {
+      "kr": "파고드는 애증",
+      "en": "Gnawing Love-Hate",
+      "id": "sp_na_453004"
+    },
+    "id": 453004
+  },
+  "453005": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5153,
+      5243
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Leo",
+    "evolution": 454005,
+    "name": {
+      "kr": "짓궂은 애증",
+      "en": "Spiteful Love-Hate",
+      "id": "sp_na_453005"
+    },
+    "id": 453005
+  },
+  "453007": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5103
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Libra",
+    "evolution": 454007,
+    "name": {
+      "kr": "생존의지의 애증",
+      "en": "Surviving Love-Hate",
+      "id": "sp_na_453007"
+    },
+    "id": 453007
+  },
+  "453008": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5033
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Scorpio",
+    "evolution": 454008,
+    "name": {
+      "kr": "무아지경의 애증",
+      "en": "Ecstatic Love-Hate",
+      "id": "sp_na_453008"
+    },
+    "id": 453008
+  },
+  "453009": {
+    "value": 3,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5143
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Sagittarius",
+    "evolution": 454009,
+    "name": {
+      "kr": "악마의 애증",
+      "en": "Devil's Love-Hate",
+      "id": "sp_na_453009"
+    },
+    "id": 453009
+  },
+  "453012": {
+    "value": 3,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5073,
+      5123
+    ],
+    "iconImage": "Darkness_C3_001",
+    "zodiac": "Pisces",
+    "evolution": 454012,
+    "name": {
+      "kr": "요망스런 애증",
+      "en": "Wicked Love-Hate",
+      "id": "sp_na_453012"
+    },
+    "id": 453012
+  },
+  "454001": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5014
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Aries",
+    "evolution": 455001,
+    "name": {
+      "kr": "순수한 배신",
+      "en": "Pure Betrayal",
+      "id": "sp_na_454001"
+    },
+    "id": 454001
+  },
+  "454003": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5054,
+      5294
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Gemini",
+    "evolution": 455003,
+    "name": {
+      "kr": "끓어오르는 배신",
+      "en": "Seething Betrayal",
+      "id": "sp_na_454003"
+    },
+    "id": 454003
+  },
+  "454004": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5114,
+      5334
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Cancer",
+    "evolution": 455004,
+    "name": {
+      "kr": "파고드는 배신",
+      "en": "Gnawing Betrayal",
+      "id": "sp_na_454004"
+    },
+    "id": 454004
+  },
+  "454005": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5154,
+      5244
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Leo",
+    "evolution": 455005,
+    "name": {
+      "kr": "짓궂은 배신",
+      "en": "Spiteful Betrayal",
+      "id": "sp_na_454005"
+    },
+    "id": 454005
+  },
+  "454007": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5104
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Libra",
+    "evolution": 455007,
+    "name": {
+      "kr": "생존의지의 배신",
+      "en": "Surviving Betrayal",
+      "id": "sp_na_454007"
+    },
+    "id": 454007
+  },
+  "454008": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5034
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Scorpio",
+    "evolution": 455008,
+    "name": {
+      "kr": "무아지경의 배신",
+      "en": "Ecstatic Betrayal",
+      "id": "sp_na_454008"
+    },
+    "id": 454008
+  },
+  "454009": {
+    "value": 4,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5144
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Sagittarius",
+    "evolution": 455009,
+    "name": {
+      "kr": "악마의 배신",
+      "en": "Devil's Betrayal",
+      "id": "sp_na_454009"
+    },
+    "id": 454009
+  },
+  "454012": {
+    "value": 4,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5074,
+      5124
+    ],
+    "iconImage": "Darkness_C4_001",
+    "zodiac": "Pisces",
+    "evolution": 455012,
+    "name": {
+      "kr": "요망스런 배신",
+      "en": "Wicked Betrayal",
+      "id": "sp_na_454012"
+    },
+    "id": 454012
+  },
+  "455001": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5015
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Aries",
+    "evolution": 456001,
+    "name": {
+      "kr": "순수한 분노",
+      "en": "Pure Anger",
+      "id": "sp_na_455001"
+    },
+    "id": 455001
+  },
+  "455003": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5055,
+      5295
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Gemini",
+    "evolution": 456003,
+    "name": {
+      "kr": "끓어오르는 분노",
+      "en": "Seething Anger",
+      "id": "sp_na_455003"
+    },
+    "id": 455003
+  },
+  "455004": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5115,
+      5335
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Cancer",
+    "evolution": 456004,
+    "name": {
+      "kr": "파고드는 분노",
+      "en": "Gnawing Anger",
+      "id": "sp_na_455004"
+    },
+    "id": 455004
+  },
+  "455005": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5155,
+      5245
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Leo",
+    "evolution": 456005,
+    "name": {
+      "kr": "짓궂은 분노",
+      "en": "Spiteful Anger",
+      "id": "sp_na_455005"
+    },
+    "id": 455005
+  },
+  "455007": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5105
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Libra",
+    "evolution": 456007,
+    "name": {
+      "kr": "생존의지의 분노",
+      "en": "Surviving Anger",
+      "id": "sp_na_455007"
+    },
+    "id": 455007
+  },
+  "455008": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5035
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Scorpio",
+    "evolution": 456008,
+    "name": {
+      "kr": "무아지경의 분노",
+      "en": "Ecstatic Anger",
+      "id": "sp_na_455008"
+    },
+    "id": 455008
+  },
+  "455009": {
+    "value": 5,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5145
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Sagittarius",
+    "evolution": 456009,
+    "name": {
+      "kr": "악마의 분노",
+      "en": "Devil's Anger",
+      "id": "sp_na_455009"
+    },
+    "id": 455009
+  },
+  "455012": {
+    "value": 5,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5075,
+      5125
+    ],
+    "iconImage": "Darkness_C5_001",
+    "zodiac": "Pisces",
+    "evolution": 456012,
+    "name": {
+      "kr": "요망스런 분노",
+      "en": "Wicked Anger",
+      "id": "sp_na_455012"
+    },
+    "id": 455012
+  },
+  "456001": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5016
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Aries",
+    "evolution": 0,
+    "name": {
+      "kr": "순수한 심연",
+      "en": "Pure Abyss",
+      "id": "sp_na_456001"
+    },
+    "id": 456001
+  },
+  "456003": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5056,
+      5296
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Gemini",
+    "evolution": 456703,
+    "name": {
+      "kr": "끓어오르는 심연",
+      "en": "Seething Abyss",
+      "id": "sp_na_456003"
+    },
+    "id": 456003
+  },
+  "456004": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5116,
+      5336
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Cancer",
+    "evolution": 456701,
+    "name": {
+      "kr": "파고드는 심연",
+      "en": "Gnawing Abyss",
+      "id": "sp_na_456004"
+    },
+    "id": 456004
+  },
+  "456005": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5156,
+      5246
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Leo",
+    "evolution": 456704,
+    "name": {
+      "kr": "짓궂은 심연",
+      "en": "Spiteful Abyss",
+      "id": "sp_na_456005"
+    },
+    "id": 456005
+  },
+  "456007": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5106
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Libra",
+    "evolution": 0,
+    "name": {
+      "kr": "생존의지의 심연",
+      "en": "Surviving Abyss",
+      "id": "sp_na_456007"
+    },
+    "id": 456007
+  },
+  "456008": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5036
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Scorpio",
+    "evolution": 0,
+    "name": {
+      "kr": "무아지경의 심연",
+      "en": "Ecstatic Abyss",
+      "id": "sp_na_456008"
+    },
+    "id": 456008
+  },
+  "456009": {
+    "value": 6,
+    "rarity": "Common",
+    "element": "Dark",
+    "skills": [
+      5146
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Sagittarius",
+    "evolution": 0,
+    "name": {
+      "kr": "악마의 심연",
+      "en": "Devil's Abyss",
+      "id": "sp_na_456009"
+    },
+    "id": 456009
+  },
+  "456012": {
+    "value": 6,
+    "rarity": "Rare",
+    "element": "Dark",
+    "skills": [
+      5076,
+      5126
+    ],
+    "iconImage": "Darkness_C6_001",
+    "zodiac": "Pisces",
+    "evolution": 456702,
+    "name": {
+      "kr": "요망스런 심연",
+      "en": "Wicked Abyss",
+      "id": "sp_na_456012"
+    },
+    "id": 456012
+  },
+  "456701": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Dark",
+    "skills": [
+      7131,
+      7133
+    ],
+    "iconImage": "Darkness_U6_001",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "탐욕의 정수",
+      "en": "Essence of Greed",
+      "id": "sp_na_456701"
+    },
+    "id": 456701
+  },
+  "456702": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Dark",
+    "skills": [
+      7141,
+      7142
+    ],
+    "iconImage": "Darkness_U6_002",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "폰투스의 조직 샘플",
+      "en": "Fontus's Tissue Sample",
+      "id": "sp_na_456702"
+    },
+    "id": 456702
+  },
+  "456703": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Dark",
+    "skills": [
+      7151,
+      7152
+    ],
+    "iconImage": "Darkness_U6_003",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "영혼 갈무리",
+      "en": "Encompassing Soul",
+      "id": "sp_na_456703"
+    },
+    "id": 456703
+  },
+  "456704": {
+    "value": 7,
+    "rarity": "Unique",
+    "element": "Dark",
+    "skills": [
+      7201,
+      7202
+    ],
+    "iconImage": "Darkness_U6_004",
+    "zodiac": "",
+    "evolution": 0,
+    "name": {
+      "kr": "바탈리온",
+      "en": "Battalion",
+      "id": "sp_na_456704"
+    },
+    "id": 456704
+  }
+}
